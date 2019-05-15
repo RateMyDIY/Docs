@@ -3,7 +3,7 @@
 
 
 #### _Feature Name: Landing Page_
-* *User Access Statuses:* _Logged In & Non-Logged In Users, Mods, & Admins._
+* **User Access Statuses:** _Logged In & Non-Logged In Users, Mods, & Admins._
 * User Stories: 
   As a Logged In user, I want a landing page that includes navigation, featured projects with ratings, popular makers, popular reviewers, and the ability to prepopulate the search page with selected content because all of these features will allow me to get a good idea of the site content and allow me to quickly navigate to different parts of the site. As a Logged In/Current user, I want to receive emails when my projects are reviewed and the ability to reset my password with my email because this makes the site more engaging and accessible.
   
