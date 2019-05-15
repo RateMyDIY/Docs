@@ -1,6 +1,16 @@
-# RateMyDIY Technical Documentation && Design Document.
+# **RateMyDIY Technical Documentation && Design Document.**
 
 RateMyDiy targets people who want to get up and get productive and learn different skills. It utilizes a rating system to analyze the most effective and enjoyed projects, project makers, and reviewers. This will allow the projects and user generated content that is most beneficial to the community to be the most available to people who are looking for high quality information.
+
+Use case examples: 
+User Journey - done
+(at least 2-3 users)
+
+> Billy is starting a job as a Java developer but doesn’t have much experience on the technology. With our app he will be able to find top rated tutorials that may be similar to what he is working and be more prepared to start the job.
+
+> Bob wants to build a blog but is unsure on where to start and what stack to use. Since he has never built a blog it seems overwhelmed with no place to start. Our app will direct him to a DIY with the languages he needs to know to get a blog site working.
+> Steve wants to write projects to impress his colleagues but doesn’t want to write on Medium because of how so many articles get there daily. Our app will reach his target audience without competing with other blogs that aren’t his category.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 [page](page.md)
