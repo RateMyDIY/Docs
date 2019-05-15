@@ -10,10 +10,11 @@ _Use case examples_:
 
   > Steve wants to become a better painter, but isn't sure how to advance his skills. With RateMyDIY he can quickly reach new skill levels, and sift through projects and their reviews to see which one focuses on his weaknesses the most. Steve is very bad at contrapposto.
 
+### Why?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[page](page.md)
-### Markdown
+Simply put, to help solve the issue of having to search multiple sources and needing to rely on them as truth, by having users rate the projects, the reliability of the project will be pre-determined so that the user can feel more confident with their choice.
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
