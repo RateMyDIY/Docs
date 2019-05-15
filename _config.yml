@@ -1,1 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
+
+---
+layout: default
+title: Feature Set
+nav_order: 2
+---
