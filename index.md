@@ -2,13 +2,13 @@
 
 ### RateMyDiy targets people who want to get up and get productive and learn different skills. It utilizes a rating system to analyze the most effective and enjoyed projects, project makers, and reviewers. This will allow the projects and user generated content that is most beneficial to the community to be the most available to people who are looking for high quality information.
 
-_*Use case examples:*_ 
+*Use case examples:* 
 
-  > Billy is starting a job as a Java developer but doesn’t have much experience on the technology. With our app he will be able to find top rated tutorials that may be similar to what he is working and be more prepared to start the job.
+  > Billy is starting a new job as a Java developer but doesn’t have much experience with the programming language. With RateMyDIY he will be able to find top rated projects related to his job, in order to get up to speed with the needs of his cool new job.
 
-  > Bob wants to build a blog but is unsure on where to start and what stack to use. Since he has never built a blog it seems overwhelmed with no place to start. Our app will direct him to a DIY with the languages he needs to know to get a blog site working.
+  > Bob wants to build a birdhouse but is unsure of where to start and what tools to use. Since he has never built anything in his life, it seems overwhelming, with no specific place to start. With RateMyDIY, he can quickly find a DIY project with the information and tools he needs to get a birdhouse built in no time, and even read the reviews of different projects to see which one fits his needs best.
 
-  > Steve wants to write projects to impress his colleagues but doesn’t want to write on Medium because of how so many articles get there daily. Our app will reach his target audience without competing with other blogs that aren’t his category.
+  > Steve wants to become a better painter, but isn't sure how to advance his skills. With RateMyDIY he can quickly reach new skill levels, and sift through projects and their reviews to see which one focuses on his weaknesses the most. Steve is very bad at contrapposto.
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
