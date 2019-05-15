@@ -17,7 +17,7 @@ Users receive welcome emails
 Users receive emails when their projects are reviewed
 Users can reset password via email
 
-Search Page
+#### _ Feature Name: Search Page_
 User Access: Logged In Users, Non-Logged In Users, Mods, & Admin
 User Stories: 
 As a Logged In user, I want navigation options on the search page; I want the results to include aggregate star ratings; and I want to be able to search projects, reviews, & reviewers because this will let me quickly navigate the site and provide me with robust and helpful results.
