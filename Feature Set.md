@@ -2,7 +2,7 @@
 
 
 
-#### _Feature Name: Landing Page_
+### _Feature Name: Landing Page_
 * **User Access Statuses:** _Logged In & Non-Logged In Users, Mods, & Admins._
 * **User Stories:** 
     * _As a Logged In user, I want a landing page that includes navigation, featured projects with ratings, popular makers, popular reviewers, and the ability to prepopulate the search page with selected content because all of these features will allow me to get a good idea of the site content and allow me to quickly navigate to different parts of the site. As a Logged In/Current user, I want to receive emails when my projects are reviewed and the ability to reset my password with my email because this makes the site more engaging and accessible._
@@ -17,11 +17,11 @@ Users receive welcome emails
 Users receive emails when their projects are reviewed
 Users can reset password via email
 
-#### _ Feature Name: Search Page_
-User Access: Logged In Users, Non-Logged In Users, Mods, & Admin
-User Stories: 
-As a Logged In user, I want navigation options on the search page; I want the results to include aggregate star ratings; and I want to be able to search projects, reviews, & reviewers because this will let me quickly navigate the site and provide me with robust and helpful results.
-As a Non Logged In User, I want results to include aggregate star ratings; I want to be able to search projects, reviews, & reviewers; and I want to be prompted to sign in because this provides me with robust & helpful results and encourages me to further engage with the site.
+### _ Feature Name: Search Page_
+* **User Access Statuses:** _Logged In Users, Non-Logged In Users, Mods, & Admin_
+* **User Stories:** 
+      * _As a Logged In user, I want navigation options on the search page; I want the results to include aggregate star ratings; and I want to be able to search projects, reviews, & reviewers because this will let me quickly navigate the site and provide me with robust and helpful results._
+      * _As a Non Logged In User, I want results to include aggregate star ratings; I want to be able to search projects, reviews, & reviewers; and I want to be prompted to sign in because this provides me with robust & helpful results and encourages me to further engage with the site._
 Search gives dismissible popup encouraging sign in, then gives results
 After sign in, sign in box turns to hamburger menu w/ all nav options
 Stars on this page are aggregate of all reviews
