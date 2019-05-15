@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# RateMyDIY Technical Documentation && Design Document.
 
-You can use the [editor on GitHub](https://github.com/RateMyDIY/Docs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+RateMyDiy targets people who want to get up and get productive and learn different skills. It utilizes a rating system to analyze the most effective and enjoyed projects, project makers, and reviewers. This will allow the projects and user generated content that is most beneficial to the community to be the most available to people who are looking for high quality information.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 [page](page.md)
