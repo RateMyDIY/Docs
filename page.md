@@ -7,9 +7,10 @@
 * **User Stories:** 
   _As a Logged In user, I want a landing page that includes navigation, featured projects with ratings, popular makers, popular reviewers, and the ability to prepopulate the search page with selected content because all of these features will allow me to get a good idea of the site content and allow me to quickly navigate to different parts of the site. As a Logged In/Current user, I want to receive emails when my projects are reviewed and the ability to reset my password with my email because this makes the site more engaging and accessible._
   _As a Non Logged In User, I want to see a preview of site content with popular makers, popular reviewers, and featured projects; I want to be able to prepopulate the search page with selected content; I want to be prompted to sign in/sign up; and I want to receive a welcome email when I do sign up because this gives me a good preview of the site and encourages me to engage with the site._
-Search gives dismissible popup encouraging sign in, then goes to results page
-Featured Projects populates w/ ratings
-Clicking a maker in Popular Makers sends user to search page w/ details of selected maker already entered
+
+* Search gives dismissible pop-up encouraging sign in, then goes to results page.
+* Featured Projects populates with user-generated ratings.
+* Clicking a maker in Popular Makers sends user to a account page with information about the selected maker.
 Clicking a reviewer in Popular Reviewers sends user to search page w/ reviewer entered
 After sign in, sign in box turns to hamburger menu w/ all nav options
 Users receive welcome emails
