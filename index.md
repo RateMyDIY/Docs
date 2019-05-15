@@ -18,8 +18,6 @@ Simply put, to help solve the issue of having to search multiple sources and nee
 
 While here are a few different sites that publish articles and tutorials, such as dev.to, medium.com, and pinterest, for the most part,these sites attempt to solve the problem with some mix of commenting, curating, and highlighting top articles and tutorials. Our proposal to incorporate a user-controlled rating system would take accessibility, credibility and community involvement to a higher level. The inclusion of commenting/responses is very common (a feature of all 3 sites), but we chose to forgo that route, in favor of funneling all comments/responses into content/ui that would aid the purpose of the application.
 
-There are accounts on Medium that curate and rank web development articles over certain spans of time (e.g. monthly & over the course of the year).
-
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
