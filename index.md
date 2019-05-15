@@ -2,7 +2,7 @@
 
 ### RateMyDiy targets people who want to get up and get productive and learn different skills. It utilizes a rating system to analyze the most effective and enjoyed projects, project makers, and reviewers. This will allow the projects and user generated content that is most beneficial to the community to be the most available to people who are looking for high quality information.
 
-*_Use case examples:_* 
+_*Use case examples:*_ 
 
   > Billy is starting a job as a Java developer but doesn’t have much experience on the technology. With our app he will be able to find top rated tutorials that may be similar to what he is working and be more prepared to start the job.
 
