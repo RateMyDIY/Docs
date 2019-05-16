@@ -1,12 +1,12 @@
 # Architectural Recommendations
 ## Front End 
-What technology solution will you use for your front-end? - Done
+What technology solution will you use for your front-end? 
 
-Gatsby JS, GraphQL, and a CSS pre-processor either LESS or SASS, react-testing-library, Jest and Apollo Client
+* Gatsby JS, GraphQL, and a CSS pre-processor either LESS or SASS, react-testing-library, Jest and Apollo Client
 
 What problems does this solution solve for this specific project? - Done - Michael
 
-It provides a flexible framework with state management and routing for our application and allows us to use all the best features of React JS to interact with the DOM.
+* It provides a flexible framework with state management and routing for our application and allows us to use all the best features of React JS to interact with the DOM.
 
 What are the drawbacks of using this solution over alternatives?
 
@@ -26,14 +26,15 @@ What are the drawbacks of using this solution over alternatives? - Done - Michae
 It’s a little more setup in the beginning, and requires more skill than some UI libraries, but it's not as opinionated.
 
 
-Back End - Lorenzo - Done
+## Back End
 What technology solution will you use for your back-end?
 
-Apollo/GraphQL for the server, and sending data to the Front-End.
-MongoDB for persisting the aforementioned data.
-Jest for testing JavaScript/React code.
-Supertest for testing API endpoints.
-Prisma for interfacing with the database.
+* Apollo/GraphQL for the server, and sending data to the Front-End.
+* MongoDB for persisting the aforementioned data.
+* Jest for testing JavaScript/React code.
+* Supertest for testing API endpoints.
+* Prisma for interfacing with the database.
+* Firebase for OAuth integration.
 
 
 What problems does this solution solve for this specific project?
