@@ -47,12 +47,13 @@ Users can reset password via email
 * If it’s the current user’s project, they can edit and will have buttons at the bottom to add text and pictures
 
 ### Feature Name: My Reviews/Review List 
-User Access: Everybody, Non Logged In users have some restrictions
-User Stories:
-As a Logged In user, I want to see my reviews and other reviews; I want to be able to edit my reviews; I want to be able to create new reviews; and I want to be able to click a review and be taken to a page(modal) that can let me view or edit that review because I want to engage with the site, provide my opinions on projects, and see others’ opinions.
-As a Non Logged In user, I want to see reviews; I want to be able to click on reviews to see individual reviews because this will allow me to find out if the projects I’m interested in are good quality.
-Page can be viewed by anyone. Edit controls are disabled for all but logged in users.
-Clicking a card opens create/edit/view review modal. 
+* **User Access Statuses:** Everybody, Non Logged In users have some restrictions
+* **User Stories:** 
+   * _As a Logged In user, I want to see my reviews and other reviews; I want to be able to edit my reviews; I want to be able to create new reviews; and I want to be able to click a review and be taken to a page(modal) that can let me view or edit that review because I want to engage with the site, provide my opinions on projects, and see others’ opinions._
+   * _As a Non Logged In user, I want to see reviews; I want to be able to click on reviews to see individual reviews because this will allow me to find out if the projects I’m interested in are good quality._
+   
+* Page can be viewed by anyone. Edit controls are disabled for all but logged in users.
+* Clicking a card opens create/edit/view review modal. 
 Review Modal
 User Access: Everybody, Non Logged In users have some restrictions
 User Stories:
