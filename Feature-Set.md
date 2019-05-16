@@ -36,7 +36,7 @@ Users can reset password via email
 * Stars are current rating
 * Clicking card opens create/edit/view page for that project
 
-### Create/Edit/View Project
+### Feature Name: Create/Edit/View Project
 User Access: Everybody, but Non Logged In users have restrictions
 User Stories: 
 As a Logged In user, I want to be able to see all of my projects or projects in general; I want to be able to edit my projects; I want to be able to create projects; and I want to be able to see reviews of my own or other projects because I want to be able to access my content, find new content, fix any content I create, and look over other people’s opinions on my own and other’s content. These opinions let me know about the quality of projects.
