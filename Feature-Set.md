@@ -26,16 +26,17 @@ Users can reset password via email
 * Stars on this page are aggregate of all reviews
 * Depending on search settings, results can be any combo of projects, reviews, and reviewers.
 
-### My Projects/Project List:
+### _Feature Name: My Projects/Project List:_
 * **User Access:** _Everybody_
 * **User Stories:** 
       * _As a Logged In user, I want to see a lists of projects with current ratings and I want to be able to click projects and access the project page because this will allow me to find and view quality projects._
 
       * _As a Non Logged In user, I also want to see a lists of projects with current ratings and I want to be able to click projects and access the project page because this will allow me to find and view quality projects._
-Stars are current rating
-Clicking card opens create/edit/view page for that project
 
-Create/Edit/View Project
+* Stars are current rating
+* Clicking card opens create/edit/view page for that project
+
+### Create/Edit/View Project
 User Access: Everybody, but Non Logged In users have restrictions
 User Stories: 
 As a Logged In user, I want to be able to see all of my projects or projects in general; I want to be able to edit my projects; I want to be able to create projects; and I want to be able to see reviews of my own or other projects because I want to be able to access my content, find new content, fix any content I create, and look over other people’s opinions on my own and other’s content. These opinions let me know about the quality of projects.
