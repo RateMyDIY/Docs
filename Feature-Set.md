@@ -1,7 +1,6 @@
 # The Feature Set
 
 
-
 ### _Feature Name: Landing Page_
 * **User Access Statuses:** _Logged In & Non-Logged In Users, Mods, & Admins._
 * **User Stories:** 
@@ -37,16 +36,17 @@ Users can reset password via email
 * Clicking card opens create/edit/view page for that project
 
 ### Feature Name: Create/Edit/View Project
-User Access: Everybody, but Non Logged In users have restrictions
-User Stories: 
-As a Logged In user, I want to be able to see all of my projects or projects in general; I want to be able to edit my projects; I want to be able to create projects; and I want to be able to see reviews of my own or other projects because I want to be able to access my content, find new content, fix any content I create, and look over other people’s opinions on my own and other’s content. These opinions let me know about the quality of projects.
-As a Non Logged In user, I want to be able to see projects and have access to their reviews because this allows me to find quality projects.
-Click Reviews to go to search page w/ results for this specific project
-Click picture for dialogue to change it
-If it’s the current user’s project, they can edit and will have buttons at the bottom to add text and pictures
-Other users get button to leave review. If not logged in, button sends them to sign up.
-My Reviews/Review List (empty)
-My Reviews/Review List (not empty)
+* **User Access Statuses:** _Everybody, but Non Logged In users have restrictions_
+* **User Stories:**  
+   * _As a Logged In user, I want to be able to see all of my projects or projects in general; I want to be able to edit my projects; I want to be able to create projects; and I want to be able to see reviews of my own or other projects because I want to be able to access my content, find new content, fix any content I create, and look over other people’s opinions on my own and other’s content. These opinions let me know about the quality of projects._
+
+   * _As a Non Logged In user, I want to be able to see projects and have access to their reviews because this allows me to find quality projects._
+   
+* Click Reviews to go to search page w/ results for this specific project
+* Click picture for dialogue to change it
+* If it’s the current user’s project, they can edit and will have buttons at the bottom to add text and pictures
+
+### Feature Name: My Reviews/Review List 
 User Access: Everybody, Non Logged In users have some restrictions
 User Stories:
 As a Logged In user, I want to see my reviews and other reviews; I want to be able to edit my reviews; I want to be able to create new reviews; and I want to be able to click a review and be taken to a page(modal) that can let me view or edit that review because I want to engage with the site, provide my opinions on projects, and see others’ opinions.
@@ -62,19 +62,3 @@ Can be viewed by anyone. Edit controls restricted to logged in users
 Helpful y/n buttons/rating used to calculate popular reviewers
 Should always load as modal on top of wherever it was linked from
 Settings
-
-
-For each feature in your spec answer the following:
-
-Dark mode
-User access: Anybody
-Billy has glasses because he spends too much time reading reviews in HotCode. With dark mode his eyes are less tired.
-Bob likes his screen to be dark all the time so he doesn’t have to take a advil everyday. Dark mode will allow him to have a nice interface that doesn’t give him a headache.
-Download Project in PDF
-User access: Anybody
-Billy is on the go and needs to print the DIY project to build it at home. We can give him a neat button to do that.
-Bob won’t have internet for days and needs something to do over those days. He can download a few projects and keep being productive.
-Embedded Youtube Video in the tutorial
-User access: Anybody
-Billy wants to share not only his tutorial on text but wants to include his youtube video tutorial with it so user can follow along. We can allow users to include embedded videos on tutorials
-Bob likes tutorials but videos help him more adding this feature will allow him to learn more.
