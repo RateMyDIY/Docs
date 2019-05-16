@@ -1,4 +1,4 @@
-# Architectural Recommendations
+# Architectural Layout
 ## Front End 
 What technology solution will you use for your front-end? 
 
