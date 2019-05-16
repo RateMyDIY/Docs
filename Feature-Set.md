@@ -20,8 +20,8 @@ Users can reset password via email
 ### *Feature Name: Search Page*
 * **User Access Statuses:** _Logged In Users, Non-Logged In Users, Mods, & Admin_
 * **User Stories:** 
-      * _As a Logged In user, I want navigation options on the search page; I want the results to include aggregate star ratings; and I want to be able to search projects, reviews, & reviewers because this will let me quickly navigate the site and provide me with robust and helpful results._
-      * _As a Non Logged In User, I want results to include aggregate star ratings; I want to be able to search projects, reviews, & reviewers; and I want to be prompted to sign in because this provides me with robust & helpful results and encourages me to further engage with the site._
+    * _As a Logged In user, I want navigation options on the search page; I want the results to include aggregate star ratings; and I want to be able to search projects, reviews, & reviewers because this will let me quickly navigate the site and provide me with robust and helpful results._
+    * _As a Non Logged In User, I want results to include aggregate star ratings; I want to be able to search projects, reviews, & reviewers; and I want to be prompted to sign in because this provides me with robust & helpful results and encourages me to further engage with the site._
 
 * Stars on this page are aggregate of all reviews
 * Depending on search settings, results can be any combo of projects, reviews, and reviewers.
