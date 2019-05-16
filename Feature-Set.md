@@ -54,11 +54,14 @@ Users can reset password via email
    
 * Page can be viewed by anyone. Edit controls are disabled for all but logged in users.
 * Clicking a card opens create/edit/view review modal. 
-Review Modal
-User Access: Everybody, Non Logged In users have some restrictions
-User Stories:
-As a Logged In user, I want to be able to see individual reviews (my own and others); I want to be able to edit my own reviews; I want to be able to create reviews; and I want to be able to rate individual reviews as helpful or not because this allows me to get more details about a review, it allows me to provide my opinions, and it allows me to help others find the most helpful reviews on projects possible.
-As a Non Logged In user, I want to be able to see individual reviews, and I want to be able to rate reviews as helpful or not because it allows me to access more information about the reviews I‘m interested in and I want to help others see the best reviews for the projects they’re interested in.
+
+### Feature Name: Review Modal
+* **User Access Statuses:** _Everybody, Non Logged In users have some restrictions_
+* **User Stories:** 
+   * _As a Logged In user, I want to be able to see individual reviews (my own and others); I want to be able to edit my own reviews; I want to be able to create reviews; and I want to be able to rate individual reviews as helpful or not because this allows me to get more details about a review, it allows me to provide my opinions, and it allows me to help others find the most helpful reviews on projects possible._
+   * _As a Non Logged In user, I want to be able to see individual reviews, and I want to be able to rate reviews as helpful or not because it allows me to access more information about the reviews I‘m interested in and I want to help others see the best reviews for the projects they’re interested in._
+   
+   
 Can be viewed by anyone. Edit controls restricted to logged in users
 Helpful y/n buttons/rating used to calculate popular reviewers
 Should always load as modal on top of wherever it was linked from
