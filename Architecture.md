@@ -4,7 +4,9 @@ What technology solution will you use for your front-end?
 
 * React/Apollo
   * What problems does this solution solve for this specific project? 
-      * It provides a flexible framework with state management and routing for our application and allows us to use all the best features of React JS to interact with the DOM.
+      * It provides a flexible framework with state management and routing for our application and allows us to use all the best features of React JS to interact with the DOM. 
+  * What are the drawbacks of using this solution over alternatives?
+
 
   
 What problems does this solution solve for this specific project? 
@@ -16,8 +18,7 @@ What problems does this solution solve for this specific project?
 * Cloudinary
 * Firebase
 
-What problems does this solution solve for this specific project? 
-* It provides a flexible framework with state management and routing for our application and allows us to use all the best features of React JS to interact with the DOM.
+
 
 What are the drawbacks of using this solution over alternatives?
 
