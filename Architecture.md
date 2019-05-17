@@ -40,6 +40,8 @@ What technology solution will you use for your back-end?
 
 * GraphQL/Nexus/Prisma
   * What problems does this solution solve for this specific project?
+      * Apollo and GraphQL work with each other very well, along with the Front-End framework Gatsby, which removes some of the headaches that come with having to find tools that don’t clash with each other.
+      
   * What are the drawbacks of using this solution over alternatives?
 * EasyGraphQLTester for testing GraphQL/Apollo code.
   * What problems does this solution solve for this specific project?
