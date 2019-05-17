@@ -3,6 +3,13 @@
 What technology solution will you use for your front-end? 
 
 * React/Apollo
+  * What problems does this solution solve for this specific project? 
+      * It provides a flexible framework with state management and routing for our application and allows us to use all the best features of React JS to interact with the DOM.
+
+  
+What problems does this solution solve for this specific project? 
+* It provides a flexible framework with state management and routing for our application and allows us to use all the best features of React JS to interact with the DOM.
+
 * GraphQL/Nexus/Prisma
 * SCSS
 * EasyGraphQLTester
