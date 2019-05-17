@@ -43,6 +43,8 @@ What technology solution will you use for your back-end?
       * Apollo and GraphQL work with each other very well, along with the Front-End framework Gatsby, which removes some of the headaches that come with having to find tools that don’t clash with each other.
       
   * What are the drawbacks of using this solution over alternatives?
+      * The main drawbacks of these two solutions are that they will require the team to become familiar with technology that we have not covered previously, which will add cognitive overhead to the development process.
+
 * EasyGraphQLTester for testing GraphQL/Apollo code.
   * What problems does this solution solve for this specific project?
   * What are the drawbacks of using this solution over alternatives?
@@ -50,7 +52,8 @@ What technology solution will you use for your back-end?
   * What problems does this solution solve for this specific project?
   * What are the drawbacks of using this solution over alternatives?
 * Prisma for interfacing with the databaseand for persisting the aforementioned data.
-  * What problems does this solution solve for this specific project?
+  * What problems does this solution solve for this specific project? 
+      * Prisma is a type safe system for accessing the database, which is predicated upon ORM’s.
   * What are the drawbacks of using this solution over alternatives?
 * Nodemailer
   * What problems does this solution solve for this specific project?
@@ -58,18 +61,6 @@ What technology solution will you use for your back-end?
 * Stripe
   * What problems does this solution solve for this specific project?
   * What are the drawbacks of using this solution over alternatives?
-
-
-
-What problems does this solution solve for this specific project?
-
-Apollo and GraphQL work with each other very well, along with the Front-End framework Gatsby, which removes some of the headaches that come with having to find tools that don’t clash with each other.
-
-MongoDB allows for the creation of more flexible data models, and thus more flexible queries, which will eliminate a lot of cognitive overhead for both the back-end team, with implementing the database, and the front-end team, with the various types and shapes of data they might want to store in the database.
-
-Jest is a JavaScript based testing framework for testing, that works out of the box, with several JS based web development, such as React and Vue.
-
-Supertest is an npm package that will allow us to test various parts of the API, so as to make sure the endpoint functionality, the data it depends on, and the data it returns are correct.
 
 Prisma is a type safe system for accessing the database, which is predicated upon ORM’s.
 
