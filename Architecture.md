@@ -2,10 +2,12 @@
 ## Front End 
 What technology solution will you use for your front-end? 
 
-* Gatsby JS, GraphQL, and a CSS pre-processor either LESS or SASS, react-testing-library, Jest and Apollo Client
+* React/Apollo
+* GraphQL/Nexus/Prisma
+* SCSS
+* EasyGraphQLTester
 
-What problems does this solution solve for this specific project? - Done - Michael
-
+What problems does this solution solve for this specific project? 
 * It provides a flexible framework with state management and routing for our application and allows us to use all the best features of React JS to interact with the DOM.
 
 What are the drawbacks of using this solution over alternatives?
@@ -13,15 +15,14 @@ What are the drawbacks of using this solution over alternatives?
 It is possible that some NPM modules may not work in the Gatsby ecosystem. 
 
 
--What library or framework will you be using for styling and presentation?  - Done - Michael
+-What library or framework will you be using for styling and presentation?  
 
 Styled-Components for streamlined components and Node-SASS to handle global variables and CSS styles.
 
-What problems does this solution solve for this specific project? - Done - Michael
-
+What problems does this solution solve for this specific project? 
 It allows the team to streamline major component and styling issues by keeping then consistent. 
 
-What are the drawbacks of using this solution over alternatives? - Done - Michael
+What are the drawbacks of using this solution over alternatives? 
 
 It’s a little more setup in the beginning, and requires more skill than some UI libraries, but it's not as opinionated.
 
