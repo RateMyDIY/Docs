@@ -13,10 +13,20 @@ What problems does this solution solve for this specific project?
 * It provides a flexible framework with state management and routing for our application and allows us to use all the best features of React JS to interact with the DOM.
 
 * GraphQL/Nexus/Prisma
+  * What problems does this solution solve for this specific project?
+  * What are the drawbacks of using this solution over alternatives?
 * SCSS
+  * What problems does this solution solve for this specific project?
+  * What are the drawbacks of using this solution over alternatives?
 * EasyGraphQLTester
+  * What problems does this solution solve for this specific project?
+  * What are the drawbacks of using this solution over alternatives?
 * Cloudinary
+  * What problems does this solution solve for this specific project?
+  * What are the drawbacks of using this solution over alternatives?
 * Firebase
+  * What problems does this solution solve for this specific project?
+  * What are the drawbacks of using this solution over alternatives?
 
 
 
