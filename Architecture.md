@@ -6,6 +6,8 @@ What technology solution will you use for your front-end?
 * GraphQL/Nexus/Prisma
 * SCSS
 * EasyGraphQLTester
+* Cloudinary
+* Firebase
 
 What problems does this solution solve for this specific project? 
 * It provides a flexible framework with state management and routing for our application and allows us to use all the best features of React JS to interact with the DOM.
@@ -31,11 +33,13 @@ It’s a little more setup in the beginning, and requires more skill than some U
 What technology solution will you use for your back-end?
 
 * Apollo/GraphQL for the server, and sending data to the Front-End.
-* MongoDB for persisting the aforementioned data.
-* Jest for testing JavaScript/React code.
-* Supertest for testing API endpoints.
-* Prisma for interfacing with the database.
+* EasyGraphQLTester for testing GraphQL/Apollo code.
+* Nexus for ORM/query builder.
+* Prisma for interfacing with the databaseand for persisting the aforementioned data.
 * Firebase for OAuth integration.
+* Nodemailer
+* Stripe
+
 
 
 What problems does this solution solve for this specific project?
