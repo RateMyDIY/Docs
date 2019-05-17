@@ -30,11 +30,6 @@ What problems does this solution solve for this specific project?
 
 
 
-What are the drawbacks of using this solution over alternatives?
-
-It is possible that some NPM modules may not work in the Gatsby ecosystem. 
-
-
 -What library or framework will you be using for styling and presentation?  
 
 Styled-Components for streamlined components and Node-SASS to handle global variables and CSS styles.
