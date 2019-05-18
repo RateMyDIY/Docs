@@ -62,17 +62,5 @@ What technology solution will you use for your back-end?
   * What problems does this solution solve for this specific project?
   * What are the drawbacks of using this solution over alternatives?
 
-Prisma is a type safe system for accessing the database, which is predicated upon ORM’s.
-
-
-What are the drawbacks of using this solution over alternatives?
-
-Apollo/GraphQL: The main drawbacks of these two solutions are that they will require the team to become familiar with technology that we have not covered previously, which will add cognitive overhead to the development process.
-
-MongoDB: As with Apollo and GraphQL, the main drawback here is that the team will need to become familiar with the nuances of Mongo, which will add cognitive overhead to the development process, however, this will be more of a trade-off because Mongo allows for more freedom with regards to data modeling/storage.
-
-Jest: The main drawbacks here are that Jest is asynchronous, which could lead to false positives or negatives, if the components that it test aren’t fully loaded, along with their data. Also, errors in the application codebase could interfere with test accuracy.
-
-Supertest:The main drawbacks here are that Supertest, being an npm package, may limited in the scope of issues it is able to both detect, and be applied to.
-
+Prisma is a type safe system for accessing the database, which is predicated on ORM's.
 
