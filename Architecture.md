@@ -6,13 +6,18 @@
   * What problems does this solution solve for this specific project? 
       * It provides a flexible development framework with state management and routing for our application and allows us to use all the best features of the JS ecosystem to create the application. 
   * What are the drawbacks of using this solution over alternatives?
+      * There aren't very many for React, as it's a very advanced and stable framework, however Apollo is rather new, and is predicatd upon newer technology, so there may be some edge cases, errors, or gotcha's that are hiding within it.
 
 * Cloudinary
   * What problems does this solution solve for this specific project?
+      * It allows for users to reliably upload images for projects from a number of commonly used and well known sources, such as Dropbox, Instagram and Facebook, as well as the users computer.
   * What are the drawbacks of using this solution over alternatives?
+      * There's obviously the technical overhead of fully implementing it, and it means a core part of our functionality is relying on third party software, which we don't have control over.
 * Firebase
   * What problems does this solution solve for this specific project?
+      * It implements OAUTH for a number of commonly used sites for 3rd party authentication, allowing for people to sign up with pre-existing accounts.
   * What are the drawbacks of using this solution over alternatives?
+     * Again, it creates a situation where some of our functionality is subject to decisions made by outside parties.
 
 
 ### What library or framework will you be using for styling and presentation?  
